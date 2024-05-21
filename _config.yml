@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Marta Haik"
-  avatar           : "Profile_pic2.png"
-  bio              : "Multi-Modal Learning \n under Prof. Marcus Rohrbach"
+  avatar           : "Profile_pic.jpg"
+  bio              : "Final year student in \nModelling and Data Science \nat Politechnika Łódzka"
   location         : "Łódź, Poland"
-  employer         : "Politechnika Łódzka"
+  # employer         : "Politechnika Łódzka"
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=UMKkDVwAAAAJ"
   email            : "marta.haik@outlook.com"
