@@ -10,9 +10,6 @@ main:
   - title: "Publications"
     url: /publications/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
-
-  - title: "Certifications"
-    url: /certifications/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
