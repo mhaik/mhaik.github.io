@@ -14,7 +14,7 @@ redirect_from:
 
 👨🏻‍💻 I'm a final year student in Modelling and Data Science program.
 
-🔬 My research interests focused on databases and uncovering data insights. I'm actively looking for an internship!
+🔬 My interests are focused on databases and uncovering data insights. I'm actively looking for an internship!
 
 📚 I'm currently working towards my BE's Thesis in the field of XXXXXXXX. 
 
