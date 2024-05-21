@@ -17,8 +17,8 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Certification"
+    url: /certification/    
     
   # - title: "Guide"
   #   url: /markdown/
