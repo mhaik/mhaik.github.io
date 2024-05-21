@@ -18,7 +18,7 @@ redirect_from:
 
 📚 I'm currently working towards my BE's Thesis in the field of XXXXXXXX. 
 
-# Selected Experience
+<!-- # Selected Experience
 
 ## 🤖 Open Source Contributions
 I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
@@ -36,4 +36,4 @@ Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/
 
 Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
 Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
+There I worked on dynamic traffic flow forecasting using Graph Neural Networks. -->
