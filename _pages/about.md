@@ -11,6 +11,7 @@ redirect_from:
 
 
 ![Illustration of venn diagram made by a cat and a man](/images/cat-meme.jpg){: .align-right width="300px"}
+
 👨🏻‍💻 I'm a final year student in Modelling and Data Science program.
 
 🔬 My research interests focused on databases and uncovering data insights. I'm actively looking for an internship!
