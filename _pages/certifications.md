@@ -5,12 +5,8 @@ permalink: /certifications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+👨🏻‍💻 I'm a final year student in Modelling and Data Science program.
 
-{% include base_path %}
+🔬 My interests are focused on databases and uncovering data insights. I'm actively looking for an internship!
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+📚 I'm currently working towards my BE's Thesis in the field of XXXXXXXX. 
